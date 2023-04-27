@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="flyerVideos" size="100.000000 53.503479" />
+    <ImageTarget name="FlyerUno" size="100.000000 135.111313" />
+  </Tracking>
+</QCARConfig>
